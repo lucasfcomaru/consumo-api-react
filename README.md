@@ -1,4 +1,4 @@
-<img src="./img/banner-readme.jpg"/>
+<img src="./src/assets/banner-readme.jpg"/>
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/lucasfcomaru/consumo-api-react?style=for-the-badge" alt="Repo size" title="Repo size"/>
     <img src="https://img.shields.io/github/languages/count/lucasfcomaru/consumo-api-react?style=for-the-badge" alt="Language count" title="Language count"/>
