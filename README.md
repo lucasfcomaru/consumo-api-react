@@ -48,14 +48,14 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você tem a versão mais recente de um dos principais navegadores `<Chrome / Firefox / Edge / Opera>` instalada.
 
 ## :atom: Dependências
-<strong>axios</strong>: ^1.7.7,
-<strong>primeflex</strong>: ^3.3.1,
-<strong>primeicons</strong>: ^7.0.0,
-<strong>primereact</strong>: ^10.8.4,
-<strong>react</strong>: ^18.3.1,
-<strong>react-dom</strong>: ^18.3.1,
-<strong>react-router-dom</strong>: ^6.27.0,
-<strong>styled-components</strong>: ^6.1.13
+<li><strong>axios</strong>: 1.7.7</li>
+<li><strong>primeflex</strong>: 3.3.1</li>
+<li><strong>primeicons</strong>: 7.0.0</li>
+<li><strong>primereact</strong>: 10.8.4</li>
+<li><strong>react</strong>: 18.3.1</li>
+<li><strong>react-dom</strong>: 18.3.1</li>
+<li><strong>react-router-dom</strong>: 6.27.0</li>
+<li><strong>styled-components</strong>: 6.1.13</li>
 
 ## ☕ Usando o projeto
 
